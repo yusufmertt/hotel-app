@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hotel-app/static/css/main.badfb277.chunk.css",
+    "main.css": "/hotel-app/static/css/main.baebd7e6.chunk.css",
     "main.js": "/hotel-app/static/js/main.e022f28a.chunk.js",
     "main.js.map": "/hotel-app/static/js/main.e022f28a.chunk.js.map",
     "runtime~main.js": "/hotel-app/static/js/runtime~main.cba0f22e.js",
@@ -9,10 +9,10 @@
     "static/js/2.b3643ade.chunk.js": "/hotel-app/static/js/2.b3643ade.chunk.js",
     "static/js/2.b3643ade.chunk.js.map": "/hotel-app/static/js/2.b3643ade.chunk.js.map",
     "index.html": "/hotel-app/index.html",
-    "precache-manifest.88771e269bfa7150d0064cd270161df5.js": "/hotel-app/precache-manifest.88771e269bfa7150d0064cd270161df5.js",
+    "precache-manifest.f9f8b16a4244ba0e098c57bd9647a11e.js": "/hotel-app/precache-manifest.f9f8b16a4244ba0e098c57bd9647a11e.js",
     "service-worker.js": "/hotel-app/service-worker.js",
     "static/css/2.3c1ddb0a.chunk.css.map": "/hotel-app/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.badfb277.chunk.css.map": "/hotel-app/static/css/main.badfb277.chunk.css.map",
+    "static/css/main.baebd7e6.chunk.css.map": "/hotel-app/static/css/main.baebd7e6.chunk.css.map",
     "static/media/Rooms.module.css": "/hotel-app/static/media/suite.a1ddd895.jpg",
     "static/media/logo.png": "/hotel-app/static/media/logo.f02d6a6c.png",
     "static/media/resort-2.jpg": "/hotel-app/static/media/resort-2.d9ba887a.jpg",
